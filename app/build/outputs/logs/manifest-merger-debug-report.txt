@@ -1,0 +1,529 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\79cd75446827dad61c312c3c38c296f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\796912c00fb164beebafe0d95b5ef56c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b25ecd7e6691c67eaf9b04cc61d90dc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0db30bdc6553dfa47489031e7abf92d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8564d0ab322438100216c1ef0468a8fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\abde76dd0e5f21e6e4b2859cedebf81a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9840fb32b50a1a17b13be58887fedbeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e2aeed65c20ff3781da344460db3f553\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b0874170e4aae0fea1762ec61ecb7910\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\38a71fa3c3ea14344a494a59a23f2dbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f6308e54e183635e941b5053ae1d1538\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\efaab98482482722973681dcf07aca80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cc95b96f89eeda690e3b0bb826fe57fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3e43c7aa5bb69f81495c88a3057f2a0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c0e591d7766a39e3c2025a63b31450f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1b76f8ed942bb96ff078047912c99db\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d092305b73207a8e4d8a3f22fab5a2fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e915fb317be1bc86b5a5ab4a98b35407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4abab6051b092ab95baa51457ddc0ab6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\67fae09a9769e81aa59081bd7842f336\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ed413c06ab1c4ca70beab744e7d1e56c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\05f8cb703b5ee1d54b05bb3ea39cdef8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fee558898d76e3c8530710c313fda8d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\064761949e4744f7f04cd02c65f34c85\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fa51cc593cabec0e4c4c861f3952a733\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\40a18a50098a7f3b924cfded95fe9eb5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:1-237:12
+	package
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:5:5-44
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:9:5-84
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:9:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:20:5-21:23
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:20:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:24:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:26:5-27:23
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:28:5-29:23
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.NFC
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:30:5-62
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:30:22-59
+uses-feature#Android.hardware.nfc
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:32:5-34:35
+	android:required
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:34:9-32
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:33:9-44
+application
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:36:5-230:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c0e591d7766a39e3c2025a63b31450f6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c0e591d7766a39e3c2025a63b31450f6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1b76f8ed942bb96ff078047912c99db\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1b76f8ed942bb96ff078047912c99db\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c0e591d7766a39e3c2025a63b31450f6\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:39:9-41
+	android:icon
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:38:9-38
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:37:9-38
+activity#com.authentication.activity.FingerprintActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:42:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:41:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.authentication.activity.SFZActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:52:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:51:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:54:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:50:13-40
+activity#com.authentication.activity.LocationActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:56:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:58:13-45
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:57:13-45
+activity#com.authentication.activity.MainActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:62:9-68:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:65:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:64:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:67:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:63:13-41
+activity#com.authentication.activity.RFIDActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:69:9-75:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:72:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:71:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:74:13-66
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:70:13-41
+activity#com.authentication.activity.ReadCardActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:76:9-82:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:79:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:78:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:81:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:77:13-45
+activity#com.authentication.activity.TypeBActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:83:9-89:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:86:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:85:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:88:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:84:13-42
+activity#com.authentication.activity.BarCodeActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:90:9-96:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:93:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:92:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:95:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:91:13-44
+activity#com.authentication.activity.BarCodeSettingActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:97:9-103:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:100:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:99:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:102:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:98:13-51
+activity#com.authentication.activity.RFID15693Activity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:104:9-110:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:107:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:106:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:109:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:105:13-46
+activity#com.authentication.activity.CPUActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:111:9-117:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:115:13-50
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:114:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:113:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:116:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:112:13-40
+activity#com.authentication.activity.HXUHFActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:118:9-123:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:121:13-50
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:120:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:119:13-42
+activity#com.authentication.activity.HKUHFActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:124:9-129:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:127:13-50
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:126:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:128:13-44
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:125:13-42
+activity#com.authentication.activity.SmartCardActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:130:9-135:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:133:13-49
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:132:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:134:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:131:13-46
+activity#com.authentication.activity.SoftDecodingActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:136:9-141:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:139:13-49
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:138:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:140:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:137:13-49
+activity#com.authentication.activity.ICCardActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:142:9-146:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:145:13-49
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:144:13-63
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:143:13-43
+activity#com.zchr.pbocemvkerneldemo.DebitCreditTransReadCardActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:147:9-152:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:150:13-49
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:149:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:151:13-44
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:148:13-87
+activity#com.authentication.activity.SDLguiActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:153:9-157:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:156:13-49
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:155:13-63
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:154:13-43
+activity#com.authentication.activity.PsamActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:158:9-162:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:160:13-56
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:159:13-41
+activity#com.authentication.activity.HXUHFActivity640
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:163:9-168:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:166:13-50
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:165:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:167:13-44
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:164:13-45
+activity#com.authentication.activity.SoftDecodingsActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:169:9-173:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:172:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:171:13-66
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:170:13-50
+activity#com.authentication.activity.PrintActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:174:9-179:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:177:13-50
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:176:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:178:13-44
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:175:13-42
+activity#com.authentication.activity.QRScannerActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:180:9-186:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:184:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:183:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:182:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:185:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:181:13-46
+activity#com.authentication.activity.FBIFingerPrintActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:187:9-196:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:190:13-49
+	android:label
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:189:13-45
+	android:configChanges
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:188:13-63
+	android:theme
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:191:13-60
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:187:19-57
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:192:4-194:20
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:193:5-78
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:193:13-75
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:195:4-118
+	android:resource
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:195:78-115
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:195:15-77
+activity#com.authentication.activity.FPDisplayActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:197:9-54
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:197:19-52
+activity#com.authentication.activity.NFCActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:198:9-224:20
+	android:screenOrientation
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:202:13-49
+	android:launchMode
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:201:13-48
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:200:13-49
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:199:13-40
+intent-filter#action:name:android.nfc.action.TECH_DISCOVERED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:203:13-207:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:204:17-77
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:204:25-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:206:17-76
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:206:27-73
+intent-filter#action:name:android.nfc.action.TAG_DISCOVERED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:208:13-212:29
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:209:17-76
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:209:25-73
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:213:13-219:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:214:17-77
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:214:25-74
+data
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:218:17-55
+	android:mimeType
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:218:23-52
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:221:13-223:59
+	android:resource
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:223:17-56
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:222:17-66
+activity#com.authentication.activity.Pad7PsamActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:225:9-226:20
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:225:19-51
+activity#com.authentication.activity.Pad7CPUActivity
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:227:9-229:20
+	android:name
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:228:13-44
+supports-screens
+ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:232:5-235:40
+	android:largeScreens
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:234:9-36
+	android:normalScreens
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:235:9-37
+	android:anyDensity
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml:233:9-34
+uses-sdk
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\79cd75446827dad61c312c3c38c296f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\79cd75446827dad61c312c3c38c296f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\796912c00fb164beebafe0d95b5ef56c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\796912c00fb164beebafe0d95b5ef56c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b25ecd7e6691c67eaf9b04cc61d90dc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b25ecd7e6691c67eaf9b04cc61d90dc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0db30bdc6553dfa47489031e7abf92d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0db30bdc6553dfa47489031e7abf92d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8564d0ab322438100216c1ef0468a8fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8564d0ab322438100216c1ef0468a8fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\abde76dd0e5f21e6e4b2859cedebf81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\abde76dd0e5f21e6e4b2859cedebf81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9840fb32b50a1a17b13be58887fedbeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9840fb32b50a1a17b13be58887fedbeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e2aeed65c20ff3781da344460db3f553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e2aeed65c20ff3781da344460db3f553\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b0874170e4aae0fea1762ec61ecb7910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b0874170e4aae0fea1762ec61ecb7910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\38a71fa3c3ea14344a494a59a23f2dbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\38a71fa3c3ea14344a494a59a23f2dbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f6308e54e183635e941b5053ae1d1538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f6308e54e183635e941b5053ae1d1538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\efaab98482482722973681dcf07aca80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\efaab98482482722973681dcf07aca80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cc95b96f89eeda690e3b0bb826fe57fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cc95b96f89eeda690e3b0bb826fe57fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3e43c7aa5bb69f81495c88a3057f2a0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3e43c7aa5bb69f81495c88a3057f2a0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c0e591d7766a39e3c2025a63b31450f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c0e591d7766a39e3c2025a63b31450f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1b76f8ed942bb96ff078047912c99db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c1b76f8ed942bb96ff078047912c99db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d092305b73207a8e4d8a3f22fab5a2fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d092305b73207a8e4d8a3f22fab5a2fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e915fb317be1bc86b5a5ab4a98b35407\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e915fb317be1bc86b5a5ab4a98b35407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4abab6051b092ab95baa51457ddc0ab6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4abab6051b092ab95baa51457ddc0ab6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\67fae09a9769e81aa59081bd7842f336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\67fae09a9769e81aa59081bd7842f336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ed413c06ab1c4ca70beab744e7d1e56c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ed413c06ab1c4ca70beab744e7d1e56c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\05f8cb703b5ee1d54b05bb3ea39cdef8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\05f8cb703b5ee1d54b05bb3ea39cdef8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fee558898d76e3c8530710c313fda8d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fee558898d76e3c8530710c313fda8d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\064761949e4744f7f04cd02c65f34c85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\064761949e4744f7f04cd02c65f34c85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fa51cc593cabec0e4c4c861f3952a733\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fa51cc593cabec0e4c4c861f3952a733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\40a18a50098a7f3b924cfded95fe9eb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Let\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\40a18a50098a7f3b924cfded95fe9eb5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Let\AndroidStudioProjects\TDemo7.3.7ZX\app\src\main\AndroidManifest.xml
